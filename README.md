@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello! I'm Saeed Amer, an IT Engineer with over 5 years of experience in system administration, specializing in Microsoft cloud technologies, on-premises infrastructure, and virtualization.
 
-I bring expertise in tools like Microsoft SCCM, Azure Cloud, Linux, Amazon AWS, and Ansible, with programming knowledge in C, C++, Python, and PowerShell for automation. Fluent in Dutch, English, and Arabic, I excel at bridging technical solutions with business needs in multicultural environments.
+I bring expertise in tools like Microsoft SCCM, Azure Cloud, Amazon AWS, Linux and Ansible, with programming knowledge in C, C++, Python, and PowerShell for automation. Fluent in Dutch, English, and Arabic, I excel at bridging technical solutions with business needs in multicultural environments.
 
 Passionate about learning and innovation, I'm eager to tackle new challenges and contribute to impactful IT initiatives.
 
