@@ -25,7 +25,8 @@ I bring expertise in tools like Microsoft SCCM, Azure Cloud, Amazon AWS, Linux a
 Passionate about learning and innovation, I'm eager to tackle new challenges and contribute to impactful IT initiatives.
 
 ### 🛠 My Tech Stack
-- **Languages:** Python, PHP, C, C++
+- **Languages:** Python, C, C++, PHP
+- **Web development:** HTML, CSS, SQL, PHP
   
 ### 🎓 Certifications
 - **Windesheim:** propaedeutic diploma of HBO-ICT - Cloud & Security Engineering
