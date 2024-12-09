@@ -1,4 +1,4 @@
-## Hi there, I'm Saeed Amer 👋
+## Hi there 👋
 
 <!--
 **saeedamer08/saeedamer08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
