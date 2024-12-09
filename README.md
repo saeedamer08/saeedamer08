@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Saeed Amer, IT Engineer with 5+ years of experience in system administration, specializing in Microsoft cloud technologies, on-premises infrastructure, and virtualization. Skilled in managing complex IT environments, including Microsoft SCCM Private Cloud, Azure Cloud, and server administration. A dedicated team player with experience working in diverse cultural contexts, from startups to multinational corporations. Possessing strong communication skills in Dutch and English, passionate about combining IT, automation, and programming to drive business growth. Eager to learn new skills and acquire the necessary knowledge quickly. Seeking a challenging role to leverage expertise and drive IT initiatives.
+Hello! I'm Saeed Amer, an IT Engineer with over 5 years of experience in system administration, specializing in Microsoft cloud technologies, on-premises infrastructure, and virtualization.
+
+I bring expertise in tools like Microsoft SCCM, Azure Cloud, Linux, Amazon AWS, and Ansible, with programming knowledge in C, C++, Python, and PowerShell for automation. Fluent in Dutch, English, and Arabic, I excel at bridging technical solutions with business needs in multicultural environments.
+
+Passionate about learning and innovation, I'm eager to tackle new challenges and contribute to impactful IT initiatives.
