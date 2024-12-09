@@ -19,3 +19,7 @@ Hello! I'm Saeed Amer, an IT Engineer with over 5 years of experience in system 
 I bring expertise in tools like Microsoft SCCM, Azure Cloud, Linux, Amazon AWS, and Ansible, with programming knowledge in C, C++, Python, and PowerShell for automation. Fluent in Dutch, English, and Arabic, I excel at bridging technical solutions with business needs in multicultural environments.
 
 Passionate about learning and innovation, I'm eager to tackle new challenges and contribute to impactful IT initiatives.
+
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
