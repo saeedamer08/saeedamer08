@@ -21,5 +21,4 @@ I bring expertise in tools like Microsoft SCCM, Azure Cloud, Linux, Amazon AWS, 
 Passionate about learning and innovation, I'm eager to tackle new challenges and contribute to impactful IT initiatives.
 
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+ 
