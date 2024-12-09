@@ -18,7 +18,7 @@ I'm Saeed Amer, An IT Engineer working as a Platform Administrator (Windows Serv
  
 
 ### 🌍 Professional Background
-an IT Engineer with over 5 years of experience in system administration, specializing in Microsoft cloud technologies, on-premises infrastructure, and virtualization.
+An IT Engineer with over 5 years of experience in system administration, specializing in Microsoft cloud technologies, on-premises infrastructure, and virtualization.
 
 I bring expertise in tools like Microsoft SCCM, Azure Cloud, Amazon AWS, Linux and Ansible, with programming knowledge in C, C++, Python, and PowerShell for automation. Fluent in Dutch, English, and Arabic, I excel at bridging technical solutions with business needs in multicultural environments.
 
