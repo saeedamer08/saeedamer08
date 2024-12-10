@@ -43,7 +43,7 @@ Passionate about learning and innovation, I'm eager to tackle new challenges and
 
 <h2>🔠 Languages Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=saeedamer08&layout=compact&theme="/ >
+<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=saeedamer08&layout=compact&theme=" />
 
 
 
