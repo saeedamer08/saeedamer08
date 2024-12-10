@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Saeed Amer, An IT Engineer working as a Platform Administrator (Windows Server) at a Dutch IT provider in Leusden, The Netherlands. The company specializes in outsourcing for the housing association sector. Responsibilities include managing private and public cloud infrastructure and applications, particularly with Microsoft Azure.
+I'm Saeed Amer, an IT Engineer working as a Platform Administrator (Windows Server) at a Dutch IT provider in Leusden, The Netherlands. The company specializes in outsourcing for the housing association sector. Responsibilities include managing private and public cloud infrastructure and applications, particularly with Microsoft Azure.
  
 
 ### 🌍 Professional Background
